@@ -82,3 +82,6 @@
 [submodule "github-gist"]
 	path = github-gist
 	url = https://github.com/danielecook/gist-alfred.git
+[submodule "alfred-fixnum"]
+	path = alfred-fixnum
+	url = https://github.com/deanishe/alfred-fixum.git

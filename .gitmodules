@@ -1,0 +1,78 @@
+[submodule "caffeinate"]
+	path = caffeinate
+	url = https://github.com/shawnrice/alfred-2-caffeinate-workflow.git
+[submodule "caniuse"]
+	path = caniuse
+	url = https://github.com/willfarrell/alfred-caniuse-workflow.git
+[submodule "devdocs"]
+	path = devdocs
+	url = https://github.com/yannickglt/alfred-devdocs.git
+[submodule "domainr"]
+	path = domainr
+	url = https://github.com/dingyi/Alfred-Workflows.git
+[submodule "emoji"]
+	path = emoji
+	url = https://github.com/carlosgaldino/alfred-emoji-workflow.git
+[submodule "encode-decode"]
+	path = encode-decode
+	url = https://github.com/willfarrell/alfred-encode-decode-workflow.git
+[submodule "github"]
+	path = github
+	url = https://github.com/gharlan/alfred-github-workflow.git
+[submodule "kill-process"]
+	path = kill-process
+	url = https://github.com/ngreenstein/alfred-process-killer.git
+[submodule "package-managers"]
+	path = package-managers
+	url = https://github.com/willfarrell/alfred-pkgman-workflow.git
+[submodule "sourcetree"]
+	path = sourcetree
+	url = https://github.com/zhaocai/alfred2-sourcetree-workflow.git
+[submodule "stackoverflow"]
+	path = stackoverflow
+	url = https://github.com/xhinking/Alfred.git
+[submodule "open-with-whatever"]
+	path = open-with-whatever
+	url = https://github.com/franzheidl/alfred-workflows.git
+[submodule "terminal-finder"]
+	path = terminal-finder
+	url = https://github.com/LeEnno/alfred-terminalfinder.git
+[submodule "virtual-box"]
+	path = virtual-box
+	url = https://github.com/aiyodk/Alfred-Extensions.git
+[submodule "colors"]
+	path = colors
+	url = https://github.com/TylerEich/Alfred-Extras
+[submodule "font-awesome"]
+	path = font-awesome
+	url = https://github.com/ruedap/alfred-font-awesome-workflow.git
+[submodule "lastpass-cli"]
+	path = lastpass-cli
+	url = https://github.com/stuartcryan/lastpass-alfred-workflow.git
+[submodule "homebrew-and-cask"]
+	path = homebrew-and-cask
+	url = https://github.com/fniephaus/alfred-homebrew.git
+[submodule "gauth"]
+	path = gauth
+	url = https://github.com/moul/alfred-workflow-gauth.git
+[submodule "todotxt"]
+	path = todotxt
+	url = https://github.com/benignoc/alfred-todotxt.git
+[submodule "flushdns"]
+	path = flushdns
+	url = https://github.com/cdraeger/alfred2-flushdns-workflow.git
+[submodule "dash"]
+	path = dash
+	url = https://github.com/Kapeli/Dash-Alfred-Workflow.git
+[submodule "convert"]
+	path = convert
+	url = https://github.com/deanishe/alfred-convert.git
+[submodule "flat-ui-colors"]
+	path = flat-ui-colors
+	url = https://github.com/mi-ca/alfredapp_flatuicolors_workflow.git
+[submodule "the-raguay-collection"]
+	path = the-raguay-collection
+	url = https://github.com/raguay/MyAlfred.git
+[submodule "dark-sky"]
+	path = dark-sky
+	url = https://github.com/kejadlen/dark-sky.alfredworkflow.git

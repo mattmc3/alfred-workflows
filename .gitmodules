@@ -76,3 +76,6 @@
 [submodule "dark-sky"]
 	path = dark-sky
 	url = https://github.com/kejadlen/dark-sky.alfredworkflow.git
+[submodule "countdown-timer"]
+	path = countdown-timer
+	url = https://github.com/dbader/alfred-countdown-timer.git

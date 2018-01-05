@@ -79,3 +79,6 @@
 [submodule "countdown-timer"]
 	path = countdown-timer
 	url = https://github.com/dbader/alfred-countdown-timer.git
+[submodule "github-gist"]
+	path = github-gist
+	url = https://github.com/danielecook/gist-alfred.git
